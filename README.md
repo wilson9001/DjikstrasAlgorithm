@@ -1,1 +1,1 @@
-DjikstrasAlgorithm
+DjikstrasAlgorithm implemented to find shortest paths through a network.
